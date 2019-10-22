@@ -11,7 +11,13 @@ Made using create-react-app, ant-design, and react-vis.
 ```
 git clone https://github.com/m34gh4nb3th/Tune.git
 ```
-2. cd into the newly created root project folder (called Tune)
-3. npm install
-4. npm run start
+2. Navigate into the root project folder
+```
+cd Tune
+```
+3. Install and start the application
+```
+npm install
+npm run start
+```
 
